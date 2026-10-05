@@ -1,0 +1,4 @@
+Train Test,TokenHMR,HMR 2.0
+Unrefined,49.1,54.3
+TokenHMR,39.3 (-19.9),51.3 (-5.6)
+HMR 2.0,46.0 (-6.3),42.4 (-22.0)

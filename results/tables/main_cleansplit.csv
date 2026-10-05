@@ -1,0 +1,11 @@
+Annotation pool,Reduction (%)
+All train+val sequences (36),14.58 ± 0.28
+Train sequences only,12.26 ± 0.35
+"Fixed random set, k=1",-1.48 ± 3.68
+"Fixed random set, k=2",1.97 ± 2.94
+"Fixed random set, k=5",6.97 ± 2.16
+"Fixed random set, k=10",9.90 ± 1.68
+"Nearest per target, k=1",2.17 ± 0.40
+"Nearest per target, k=5",10.05 ± 0.38
+Test subjects present in the pool,16.61
+Test subjects absent from the pool,11.75

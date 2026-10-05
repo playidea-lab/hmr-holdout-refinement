@@ -1,0 +1,6 @@
+,,TokenHMR,HMR 2.0
+Subject rule,Size control,Subj. 0,Subj. 1,Subj. 0,Subj. 1
+Rows,none,0.23,0.46,0.20,0.36
+Rows,whole sequences,0.10,0.34,0.01,0.25
+Rows,uniform frames,0.21,0.43,0.17,0.33
+Whole,whole sequences,0.16,0.08,0.15,0.14

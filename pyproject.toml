@@ -1,0 +1,19 @@
+[project]
+name = "hmr-holdout-refinement"
+version = "0.1.0"
+description = "Code for 'The Hold-Out Protocol Decides What a Post-Hoc Refiner Has Learned: Personalization and Annotation Budgets in Human Mesh Recovery'"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "numpy",
+    "scipy",
+    "torch>=2.1",
+    "matplotlib",
+    "tqdm",
+    # clean split GT 재구성 (scripts/clean_split/build_seq_npz.py)
+    "smplx",
+]
+
+[tool.uv]
+package = false

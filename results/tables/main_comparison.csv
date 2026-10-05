@@ -1,0 +1,8 @@
+Method,Signal,Before,After,Change,% ref.
+SMPLify smplify2016,2D kpts,54.3,60.1,+10.7%,---
+ScoreHMR scorehmr2024,"2D kpts, image",54.3,51.1,-5.9%,27%
+Biomech. subspace,none,54.3,53.3,-1.9%,8%
+Cross-bb consensus,none,54.3,52.4,-3.5%,16%
+"Ours, new subject (k=5)",5 seq GT,54.3,48.3,-11.2%,51%
+"Ours, per target (k=5, transductive)",5 seq GT,54.3,44.5,-18.2%,83%
+"Ours (reference, k=23)",All GT,54.3,42.4,-22.0%,100%

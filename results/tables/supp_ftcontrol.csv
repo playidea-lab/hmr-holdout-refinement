@@ -1,0 +1,5 @@
+Use of the labels,Sees,PA-MPJPE,Delta
+None (unrefined),---,54.33,---
+"Refiner, k=5",joints,44.45,-18.2%
+"Refiner, k=23 (reference)",joints,42.40,-22.0%
+"SMPL head fine-tuned, k=5",image features,38.98,-28.3%

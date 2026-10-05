@@ -1,0 +1,4 @@
+Method,TokenHMR,HMR 2.0
+Mean Shift,-3.1,-5.5
+Linear Reg.,-11.2,-11.6
+MLP (LOO),-20.3,-22.2
